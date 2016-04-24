@@ -17,7 +17,7 @@ def max(blah)
   end
   m
 end
-puts max(blah)
+puts max(a)
 
 #two arrays into one hash
 # assumes array arg1, and arg2 are of equal length
